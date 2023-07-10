@@ -121,6 +121,7 @@ print(a+b)
 
 ## На этом пока все, спасибо за внимание!
 ![mygif](https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif)
+#
 
-
+# Домашка к семинару. Урок 2
 
